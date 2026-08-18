@@ -19,7 +19,7 @@ cd $SLURM_SUBMIT_DIR
 
 genome_index=/path/to/GenomeRef/Zea_mays_v5/V5_CpMt_gene/STAR_Zm_v5_scRNA-seq
 gtf=/path/to/GenomeRef/Zea_mays_v5/V5_CpMt_gene/Zm-B73-REFERENCE-NAM-5.0_Zm00001eb.1_mainChr_MtCp.gtf
-whitelist=/path/to/04_scifi_multiome/BC_while_list/737K-cratac-v1-96-well-barcode.txt 
+whitelist=/path/to/04_scifi_multiome/BC_while_list/737K-cratac-v1-first-well-bc.txt
 
 file_base=/path/to/04_scifi_multiome/Zm_seedling/00_rawdata/rna/AH_17Xuan_eMultiome-S1-rna_S10_L004
 prefix=AH15AH17_Zm_seedling-rep1
